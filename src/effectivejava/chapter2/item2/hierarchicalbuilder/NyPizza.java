@@ -3,7 +3,8 @@ package effectivejava.chapter2.item2.hierarchicalbuilder;
 import java.util.Objects;
 
 // Subclass with hierarchical builder (Page 15)
-public class NyPizza extends Pizza {
+public class
+NyPizza extends Pizza {
     public enum Size { SMALL, MEDIUM, LARGE }
     private final Size size;
 
