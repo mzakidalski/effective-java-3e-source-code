@@ -8,6 +8,8 @@ public class Elvis {
 
     public void leaveTheBuilding() {
         System.out.println("Whoa baby, I'm outta here!");
+        System.out.println(toString());
+
     }
 
     // This code would normally appear outside the class!

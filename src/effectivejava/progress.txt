@@ -1,1 +1,2 @@
-17/38
+ -Serializable + transient + readResolve
+21/42
